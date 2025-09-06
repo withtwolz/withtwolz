@@ -95,11 +95,11 @@ If you are looking to build a new test framework or just need some code quality 
 
 ---
 
-## ✨ Other interests
+## ✨ Other Tidbits
 
-- I product music on guitar but occasionally the several other string/wind instruments in my closet
-- I love automation, Arduino projects included!
-- I traveled across the US in the past 3 years
+- I play music, mostly on guitar but occasionally the several other string/wind instruments in my closet 🎺
+- I love automation, Arduino projects included! 🤖
+- I traveled across the US from WA to VA in the past 3 years
 
 ---
 

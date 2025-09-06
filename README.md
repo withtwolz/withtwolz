@@ -1,14 +1,13 @@
-# 👋 Hi, I'm Phillip (withtwolz) and I like Quality
+# 👋 Hi, I'm Phillip (withtwolz) and I appreciate quality
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpyNTFxc3hnYmw3Znk1bzduMmZmcnJsdWpnbmtnb3ludXZ5NDB1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mCRJDo24UvJMA/giphy.gif" width="300px">
 <div><a href="https://github.com/withtwolz"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="www.linkedin.com/in/phillip-chuz"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/u/withtwolz/"><img src="https://img.shields.io/badge/leetcode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" /></a></div>
-I am a 10+ YOE QA/SDET with a passion for building out workflow automations and tools that make quality easily achievable. 
+I am a 12+ YOE Senior QA Lead / SDET with a passion for building out workflow automations and tools that make quality easily achievable. 
 If you are looking to build a new test framework or just need some code quality process suggestions, <a href="#collaborate">hit me up 📬</a>
 </br>
 </br>
 
-- 💻 Software Developer & Tech Enthusiast
-- 🌱 Always learning new languages and frameworks
-- 🤝 Open to collaboration and new ideas
+>Most recently I'm working on
+[Hack-A-Term](https://github.com/withtwolz/hackaterm) a Typescript / React replication of the [Fallout hacking minigame](https://fallout.fandom.com/wiki/Hacking)
 
 ## 🛠️ Technical Skills
 
@@ -105,7 +104,7 @@ If you are looking to build a new test framework or just need some code quality 
 ---
 
 
-<!-- <table>
+<!-- Colors <table>
 <tr>
 <td style="background-color: #222222ff;">eerie-black: #222222ff;</td>
 <td style="background-color: #474747ff;">outer-space: #474747ff;</td>

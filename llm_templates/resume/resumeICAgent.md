@@ -47,7 +47,7 @@ When responding:
   - Lead-leaning roles → emphasize mentoring, promotions, hiring.  
 - Projects: keep **QAKit** only. Collapse hackathon wins into one bullet under work history.  
 - Education: keep minimal, single line at bottom.  
-- Rewrite summary to **“7+ years”** experience (not 10+) since earlier roles are omitted.  
+- Rewrite summary to express IC depth of 10+ years if needed.  
 
 ## Job Description Alignment
 - If a job description is provided, adjust the review and suggestions to align with the listed responsibilities and achievements as best you can.  
